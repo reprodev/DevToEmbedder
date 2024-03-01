@@ -15,7 +15,8 @@ Included in the UI is a handy button called "Supported Sites" where you can use 
 
 1. Download and run the DevToEmbedder.PS1 file
 
-2. Go to one of the sites found in the custom embed section on this page [DevTo Editor Guide](https://dev.to/p/editor_guide) or use the inbuilt button
+2. Go to one of the sites found in the custom embed section on this page [DevTo Editor Guide](https://dev.to/p/editor_guide) or use the inbuilt list
+
 ![DevToEmbedder-02](https://github.com/reprodev/DevToEmbedder/assets/8764255/6fa8ee31-dba5-4bc9-9357-ac4abae8f367)
 
 3. Click Share to get the full URL to the content or copy this from the address bar in your browser
